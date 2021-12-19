@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resourses/GZHU.png</file>
+        <file>resourses/GZHU_500.jpeg</file>
+        <file>resourses/Button Add.ico</file>
+        <file>resourses/background.jpg</file>
+    </qresource>
+</RCC>
